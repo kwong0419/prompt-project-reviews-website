@@ -48,17 +48,6 @@ git clone https://github.com/jdrichards-pursuit/prompt-project-reviews-website.g
 2. **Styling**:
    - Basic CSS for the layout to ensure the site is visually organized, such as padding, margins, text alignments, and color schemes.
 
-## Example Prompts to Guide the Creation
-
-- "Generate a header component with the site's title and a navigation menu."
-- "Create a main section that will display reviews with their titles, dates, and summaries."
-- "Develop a form with inputs for a review title, reviewer's name, and a large textarea for review content. Include a submit button."
-- "Construct a footer with basic copyright and contact information."
-- "Write CSS for the header to have a background color and the text centered."
-- "Set up state management for each input field in the form using `useState`."
-- "Make a function that logs the input data to the console when the form is submitted."
-- "Add basic validation to the form to ensure all fields are filled before submission."
-
 ## Using Cursor IDE
 
 Fellows should use Cursor IDE to complete this project. They can generate prompts by either pressing `Command-K` or `Command-L` within the IDE.
