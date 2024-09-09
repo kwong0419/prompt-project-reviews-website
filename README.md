@@ -67,11 +67,10 @@ Fellows should use Cursor IDE to complete this project. They can generate prompt
 
 - Create components as needed, but use prompts to generate all functionality.
 - Generate all components and functionality through prompts without directly writing or copying code.
-  Use the prompts to:
-- Create a working review submission form.
-- Style the website.
-- Implement form handling and validation.
-- Create components as needed, but use prompts to generate all functionality.
+- Use the prompts to:
+  - Create a working review submission form.
+  - Style the website.
+  - Implement form handling and validation.
 - **No Code Copying**: Do not copy these instructions or any pre-written code into their prompts; they must generate everything through Cursor prompts.
 
 ## Additional Guidelines
