@@ -1,8 +1,20 @@
 # Review Website Project
 
+<img src="./prompt.webp" alt="prompt image" />
+
 ## Overview
 
 This project involves creating a review website layout with a working review submission form using only prompts. Fellows are required to generate all components and functionality through prompts without directly writing or copying code.
+
+## Getting Started
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/jdrichards-pursuit/prompt-project-reviews-website.git
+```
+
+2. Open the project in Cursor IDE.
 
 ## Components to Create
 
