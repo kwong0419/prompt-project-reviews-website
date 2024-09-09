@@ -1,6 +1,6 @@
 # Reviews Website Project
 
-<img src="./assets/assets/prompt.webp" alt="prompt image" />
+<img src="./assets/prompt.webp" alt="prompt image" />
 
 ## Overview
 
