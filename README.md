@@ -63,11 +63,21 @@ git clone https://github.com/jdrichards-pursuit/prompt-project-reviews-website.g
 
 Fellows should use Cursor IDE to complete this project. They can generate prompts by either pressing `Command-K` or `Command-L` within the IDE.
 
+## Rules
+
+- Create components as needed, but use prompts to generate all functionality.
+- Generate all components and functionality through prompts without directly writing or copying code.
+  Use the prompts to:
+- Create a working review submission form.
+- Style the website.
+- Implement form handling and validation.
+- Create components as needed, but use prompts to generate all functionality.
+- **No Code Copying**: Do not copy these instructions or any pre-written code into their prompts; they must generate everything through Cursor prompts.
+
 ## Additional Guidelines
 
 - **Responsive Design**: Prompt to make the website responsive using CSS media queries.
 - **Reusability**: Encourage creating reusable components, such as input fields, buttons, and review cards, using prompts.
-- **No Code Copying**: Fellows should not copy these instructions or any pre-written code into their prompts; they must generate everything through Cursor prompts.
 
 ### Note
 
