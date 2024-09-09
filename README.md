@@ -63,7 +63,7 @@ git clone https://github.com/jdrichards-pursuit/prompt-project-reviews-website.g
 
 Fellows should use Cursor IDE to complete this project. They can generate prompts by either pressing `Command-K` or `Command-L` within the IDE.
 
-## Rules
+## Project Rules
 
 - Create components as needed, but use prompts to generate all functionality.
 - Generate all components and functionality through prompts without directly writing or copying code.
