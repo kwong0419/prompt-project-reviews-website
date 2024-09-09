@@ -1,31 +1,62 @@
-# Basic React Starter
+# Review Website Project
 
-You can use this starter to create any ReactJS app you would like.
-Unlike when you use `npm create vite@latest your-app-name -- --template react`,
+## Overview
 
-This repo has removed all of the unwanted starter code that is normally included when using `npm` to create an application.
+This project involves creating a review website layout with a working review submission form using only prompts. Fellows are required to generate all components and functionality through prompts without directly writing or copying code.
 
-## Getting started
+## Components to Create
 
-- `clone` this application
-- change the name of this directory to a name that refers to your current project. Don't just leave it as `react-basic-starter`
-  _Hint:_ In the terminal, type `mv react-basic-starter new-name-of-your-app`
-- `cd` into the app
-- in the terminal run `git remote remove origin` in order to remove any connection to this Github folder.
+1. **Header**:
 
-- run `npm install`
-- to start the project, run `npm run dev`
-- no navigate to `localhost:3000` and you will see the app
-- Now you are ready to code
+   - Contains the site's title or logo.
+   - Optional navigation menu for simplicity.
 
-If you would like to connect this afterwards to your personal Github then:
+2. **Reviews Section**:
 
-- go to your Github account in the browser
-- create a new repo and give it a name
-- make sure the repo is public and click `Create Repository`
-- copy the instructions under the title `…or push an existing repository from the command line`
-- paste the commands in your terminal
+   - A layout to display a list of reviews. Each review might include a title, date, and a short summary.
 
-You have now connected your project to the repo.
+3. **Review Submission Form**:
 
-**You have the ability to clone this repo over and over to create your own projects. Just remember to change the name of the folder so that you do not have duplicates**
+   - Input for the review title.
+   - Input for the reviewer's name.
+   - Textarea for the review content.
+   - A submit button.
+
+4. **Footer**:
+   - Basic contact information or copyright notice.
+
+## Functionalities to Implement Through Prompts
+
+1. **Form Handling**:
+
+   - Handling state for the form inputs.
+   - Submitting the form and either logging the data to the console or displaying it on the page as a new review preview.
+   - Basic form validation to check that no fields are empty before submission.
+
+2. **Styling**:
+   - Basic CSS for the layout to ensure the site is visually organized, such as padding, margins, text alignments, and color schemes.
+
+## Example Prompts to Guide the Creation
+
+- "Generate a header component with the site's title and a navigation menu."
+- "Create a main section that will display reviews with their titles, dates, and summaries."
+- "Develop a form with inputs for a review title, reviewer's name, and a large textarea for review content. Include a submit button."
+- "Construct a footer with basic copyright and contact information."
+- "Write CSS for the header to have a background color and the text centered."
+- "Set up state management for each input field in the form using `useState`."
+- "Make a function that logs the input data to the console when the form is submitted."
+- "Add basic validation to the form to ensure all fields are filled before submission."
+
+## Using Cursor IDE
+
+Fellows should use Cursor IDE to complete this project. They can generate prompts by either pressing `Command-K` or `Command-L` within the IDE.
+
+## Additional Guidelines
+
+- **Responsive Design**: Prompt to make the website responsive using CSS media queries.
+- **Reusability**: Encourage creating reusable components, such as input fields, buttons, and review cards, using prompts.
+- **No Code Copying**: Fellows should not copy these instructions or any pre-written code into their prompts; they must generate everything through Cursor prompts.
+
+### Note
+
+These rules and guidelines are for instructional purposes and should not be directly copied into the prompt interface by the fellows. They must understand and apply these concepts through their interactions with Cursor.
